@@ -1,0 +1,118 @@
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\App.xbf
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.xr.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.exe
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.pdb
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\resources.pri
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.build.appxrecipe
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.xaml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.xbf
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.exe
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.pdb
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.exe.config
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\addatta\Desktop\DevCampAMS\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.exe.config
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\App.xbf
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.xr.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.exe
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.pdb
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\resources.pri
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\GetStartedWithData.WindowsPhone.build.appxrecipe
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.xaml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\App.xbf
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.exe
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.pdb
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\GetStartedWithData.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.WindowsPhone\obj\Debug\ProjectArchitectures.txt

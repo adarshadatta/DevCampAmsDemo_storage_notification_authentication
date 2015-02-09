@@ -1,0 +1,1 @@
+C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\GetStartedWithData.Windows.csproj;neutral

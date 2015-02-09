@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADDATTA-X1CARB</Machine>
+    <WindowsUser>addatta</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>20865adarsha.DevCampAMSNH</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5D73A5232AAB01F777612817D14E9764A875EE2F6396E500AFC257DD2A26502C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20865adarsha.DevCampAMSNH_1.1.0.0_neutral__ybsvc5w9y1rbp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20865adarsha.DevCampAMSNH_ybsvc5w9y1rbp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20865adarsha.DevCampAMSNH</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=4573D93E-5399-49DA-8D35-5580A2D490D8</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-07T02:40:49.594</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\GetStartedWithData.Windows.exe">
+      <PackagePath>GetStartedWithData.Windows.exe</PackagePath>
+      <Modified>2015-02-09T15:39:14.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\netcore45\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+      <Modified>2015-02-07T02:40:26.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\WindowsAzure.MobileServices.1.3.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-02-06T20:27:44.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\WindowsAzure.MobileServices.1.3.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-02-06T20:27:44.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-02-06T20:27:42.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-02-06T20:27:43.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-02-06T20:27:43.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-06T18:44:42.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-06T18:44:42.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-06T18:44:42.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-06T18:44:42.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-06T20:10:03.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\Common\QuickStartTask.xbf">
+      <PackagePath>Common\QuickStartTask.xbf</PackagePath>
+      <Modified>2015-02-06T20:10:03.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-07T15:56:22.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\GetStartedWithData.Windows.xr.xml">
+      <PackagePath>GetStartedWithData.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-07T15:56:22.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\addatta\Desktop\GITHUB local repository\DevCampAMS_Fully working\C#\GetStartedWithData\GetStartedWithData.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-09T15:39:15.428</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
